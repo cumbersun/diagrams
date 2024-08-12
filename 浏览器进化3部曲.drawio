@@ -1,11 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="Zy1dnvKFIDFRJ7WLUU5S">
-    <mxGraphModel dx="1426" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="672" dy="366" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-1" value="应用程序web化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=miao;fontSource=https%3A%2F%2Fnote.youdao.com%2Fs%2FTFQkOxDo;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="101" y="143" width="570.4" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-1" value="应用程序web化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-6">
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-2" value="Web 应用移动化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-6">
+          <mxGeometry x="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-3" value="Web 操作系统化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-6">
+          <mxGeometry x="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="z9JIjn1zgOSMuu39Rj0Z-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="570.4" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="101" y="143" width="570.4" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-8" value="应用程序web化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https://fonts.googleapis.com/css?family=Long+Cang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-7">
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-9" value="Web 应用移动化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https://fonts.googleapis.com/css?family=Long+Cang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-7">
+          <mxGeometry x="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-10" value="Web 操作系统化" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Long Cang;fontSource=https://fonts.googleapis.com/css?family=Long+Cang;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-7">
+          <mxGeometry x="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="z9JIjn1zgOSMuu39Rj0Z-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="70" as="sourcePoint" />
+            <mxPoint x="570.4" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-30" value="" style="group;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="98" y="301" width="508" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-17" value="Service&lt;br style=&quot;font-size: 16px;&quot;&gt;Worker" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=none;strokeColor=#67AB9F;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=1;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.app_config;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry x="234" y="75" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-20" value="" style="group" vertex="1" connectable="0" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry y="80" width="79" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Domains.svg;imageBackground=#67AB9F;" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-20">
+          <mxGeometry x="7" width="65" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-19" value="Web App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=17;fontStyle=1" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-20">
+          <mxGeometry y="57" width="79" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-22" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="z9JIjn1zgOSMuu39Rj0Z-30" target="z9JIjn1zgOSMuu39Rj0Z-17">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="87" y="112" as="sourcePoint" />
+            <mxPoint x="272" y="-8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-23" value="SW Cache" style="shape=datastore;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=17;fontStyle=1" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry x="437" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-25" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#EA6B66;" edge="1" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="104" as="sourcePoint" />
+            <mxPoint x="429" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-26" value="network" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.website_generic;pointerEvents=1;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontStyle=1" vertex="1" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry x="432" y="166" width="76" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="z9JIjn1zgOSMuu39Rj0Z-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;strokeColor=#3399FF;" edge="1" parent="z9JIjn1zgOSMuu39Rj0Z-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="144" as="sourcePoint" />
+            <mxPoint x="418" y="196" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
