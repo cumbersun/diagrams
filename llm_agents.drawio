@@ -1,9 +1,141 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.13">
   <diagram name="第 1 页" id="Uc7iptsC4gx8Ok16p3lD">
-    <mxGraphModel>
+    <mxGraphModel dx="3315" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="1" source="yZeLGTIOiG4rphrcKN3Q-1" target="yZeLGTIOiG4rphrcKN3Q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-1" value="user query" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-3" value="intense analyze" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-5" value="rewrite query" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="1" source="yZeLGTIOiG4rphrcKN3Q-3" target="yZeLGTIOiG4rphrcKN3Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-9" value="manager agent" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-44" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-110" y="720" width="970" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry width="970" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-10" target="yZeLGTIOiG4rphrcKN3Q-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-10" target="yZeLGTIOiG4rphrcKN3Q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-10" target="yZeLGTIOiG4rphrcKN3Q-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-10" target="yZeLGTIOiG4rphrcKN3Q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-10" value="agent" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="400" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-11" target="yZeLGTIOiG4rphrcKN3Q-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-11" target="yZeLGTIOiG4rphrcKN3Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-11" target="yZeLGTIOiG4rphrcKN3Q-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;flowAnimation=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-11" target="yZeLGTIOiG4rphrcKN3Q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;sketch=1;curveFitting=1;jiggle=2;dashed=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-11" target="yZeLGTIOiG4rphrcKN3Q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-11" value="tools" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="215" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-12" value="calendar" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="30" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-13" value="calculator" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="30" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-14" value="codeInterpreter" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="30" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-15" value="bing/google/baidu" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="30" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-21" target="yZeLGTIOiG4rphrcKN3Q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-21" value="memory" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="400" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-23" value="short memory" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="290" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-25" value="long memory" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="490" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.592;entryY=1.096;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-21" target="yZeLGTIOiG4rphrcKN3Q-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-28" value="Action" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="400" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-31" target="yZeLGTIOiG4rphrcKN3Q-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-31" target="yZeLGTIOiG4rphrcKN3Q-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-31" target="yZeLGTIOiG4rphrcKN3Q-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;" edge="1" parent="yZeLGTIOiG4rphrcKN3Q-44" source="yZeLGTIOiG4rphrcKN3Q-31" target="yZeLGTIOiG4rphrcKN3Q-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-31" value="planning" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="600" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-33" value="reflection" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="770" y="215" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-35" value="self-critics" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="770" y="275" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-36" value="chain of thoughts" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="770" y="332" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-37" value="subgoals" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="770" y="385" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-43" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Agent&amp;nbsp;&amp;nbsp;&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;Architecture&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontStyle=1;fontColor=#00CC66;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-44">
+          <mxGeometry x="370" y="10" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="15" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-49" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-51">
+          <mxGeometry width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-47" value="memory" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-51">
+          <mxGeometry x="250" y="15" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-48" value="chat history" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=18;" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-51">
+          <mxGeometry x="120" y="15" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yZeLGTIOiG4rphrcKN3Q-50" value="context" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontStyle=1" vertex="1" parent="yZeLGTIOiG4rphrcKN3Q-51">
+          <mxGeometry x="10" y="20" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
