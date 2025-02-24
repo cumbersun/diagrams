@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="3bp0IzZ-zmCT-updCli7">
-    <mxGraphModel dx="3342" dy="493" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4289" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,16 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-41" target="adOZ_JN4gbAruZZhF4wo-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-41" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;initialize_components(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-41" target="adOZ_JN4gbAruZZhF4wo-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1847" y="964" />
+              <mxPoint x="485" y="964" />
+              <mxPoint x="485" y="1254" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-41" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;initialize_components(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#f8cecc;strokeColor=#b85450;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1657" y="479" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-42" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: dbgpt_server.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;初始化系统组件,具体的组件类型可以参考ComponentType" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-41">
@@ -135,12 +144,6 @@
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-61" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file:&amp;nbsp;&lt;/span&gt;app/base.py&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-60">
           <mxGeometry x="11" y="45" width="122" height="44" as="geometry" />
-        </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-68" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;initialize_components(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="1040" width="380" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-69" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: dbgpt_server.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;初始化系统组件,具体的组件类型可以参考ComponentType" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-68">
-          <mxGeometry x="11" y="45" width="369" height="44" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-70" target="adOZ_JN4gbAruZZhF4wo-72">
           <mxGeometry relative="1" as="geometry" />
@@ -199,7 +202,7 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-87" target="adOZ_JN4gbAruZZhF4wo-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-87" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_embedding_model(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-87" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_embedding_model(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="2671" y="1204" width="247" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-88" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-87">
@@ -208,7 +211,7 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-90" target="adOZ_JN4gbAruZZhF4wo-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-90" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_rerank_model&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(...)&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-90" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_rerank_model&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(...)&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="3008" y="1204" width="255" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-91" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-90">
@@ -217,7 +220,7 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-93" target="adOZ_JN4gbAruZZhF4wo-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-93" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_model_cache(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-93" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_model_cache(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="3370" y="1204" width="236" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-94" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-93">
@@ -226,13 +229,16 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-97" target="adOZ_JN4gbAruZZhF4wo-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adOZ_JN4gbAruZZhF4wo-97" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_awel(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-97" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_awel(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="3688" y="1203" width="206" height="102" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-98" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-97">
           <mxGeometry x="11" y="45" width="204" height="44" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-100" target="adOZ_JN4gbAruZZhF4wo-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-100" target="adOZ_JN4gbAruZZhF4wo-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-100" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_resource_manager(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
@@ -244,17 +250,115 @@
         <mxCell id="adOZ_JN4gbAruZZhF4wo-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-103" target="adOZ_JN4gbAruZZhF4wo-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-103" target="adOZ_JN4gbAruZZhF4wo-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-103" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_agent(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="4266" y="1203" width="236" height="100" as="geometry" />
+          <mxGeometry x="4652" y="1203" width="236" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-104" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-103">
           <mxGeometry x="11" y="45" width="204" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-106" target="adOZ_JN4gbAruZZhF4wo-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-106" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_openapi(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="4575" y="1203" width="236" height="100" as="geometry" />
+          <mxGeometry x="5001" y="1203" width="236" height="100" as="geometry" />
         </mxCell>
         <mxCell id="adOZ_JN4gbAruZZhF4wo-107" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-106">
-          <mxGeometry x="11" y="45" width="204" height="44" as="geometry" />
+          <mxGeometry x="12" y="45" width="204" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-109" target="adOZ_JN4gbAruZZhF4wo-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-109" target="adOZ_JN4gbAruZZhF4wo-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-109" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;initialize_resource()&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4100" y="1337" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-110" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: agent/resource/manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-109">
+          <mxGeometry x="11" y="45" width="205" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-111" target="adOZ_JN4gbAruZZhF4wo-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-111" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;ResourceManager()&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="1471" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-112" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: agent/resource/manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-111">
+          <mxGeometry x="11" y="45" width="205" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-113" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;register_instance&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(resource_manager)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4518" y="1471" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-114" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: agent/resource/manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-113">
+          <mxGeometry x="11" y="45" width="205" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-120" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;register_resource&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4378" y="1324.5" width="275" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-121" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: agent/resource/manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc: 注册资源包含&lt;/span&gt;DatasourceResource,&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;KnowledgeSpaceRetrieverResource,&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;PluginToolPack(autoGPT插件),&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&amp;nbsp;    &lt;/span&gt;AppResource,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;search tool, host tools&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-120">
+          <mxGeometry x="14" y="33" width="269" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-125" target="adOZ_JN4gbAruZZhF4wo-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-125" value="&lt;font style=&quot;color: rgb(0, 204, 0);&quot; face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font&gt;initialize_agent&lt;/font&gt;&lt;font&gt;()&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4805" y="1332" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-126" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: agent/core/agent_manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-125">
+          <mxGeometry x="11" y="45" width="219" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-128" target="adOZ_JN4gbAruZZhF4wo-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-128" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;AgentManager()&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4965" y="1471" width="371" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-129" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; line-height: 18px;&quot;&gt;@file: agent/core/agent_manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;@desc:&amp;nbsp; 在 hooks::after_start时添加预置 core agents,&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&amp;nbsp;     包含&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;CodeAssistantAgent,&lt;/span&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;DataScientistAgent,&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;              &lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;DashboardAssistantAgent,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;SummaryAssistantAgent,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;              &lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;ToolAssistantAgent, &lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;IndicatorAssistantAgent,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;               &lt;/span&gt;&lt;span style=&quot;background-color: transparent; white-space-collapse: preserve;&quot;&gt;SimpleAssistantAgent&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-128">
+          <mxGeometry x="11" y="38" width="360" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-130" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;register_instance&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;(agent_manager)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5385" y="1491" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-131" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; line-height: 18px;&quot;&gt;@file: agent/core/agent_manage.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-130">
+          <mxGeometry x="11" y="45" width="219" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-136" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;register(EditorService)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="5137" y="1337" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-137" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-136">
+          <mxGeometry x="12" y="45" width="204" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-107" target="adOZ_JN4gbAruZZhF4wo-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="adOZ_JN4gbAruZZhF4wo-139" target="adOZ_JN4gbAruZZhF4wo-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-139" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;register_serve_apps(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="5354" y="1203" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-140" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-139">
+          <mxGeometry x="12" y="45" width="204" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-142" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_operators()&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="5671" y="1203" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-143" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-142">
+          <mxGeometry x="12" y="45" width="204" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" target="adOZ_JN4gbAruZZhF4wo-146" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5907" y="1253" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-146" value="&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#00cc00&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;_initialize_code_server(...)&lt;/span&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=40;rounded=1;sketch=1;curveFitting=1;jiggle=2;container=0;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="5988" y="1203" width="236" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adOZ_JN4gbAruZZhF4wo-147" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 150%;&quot;&gt;@file: app/component_configs.py&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;@desc:&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;container=0;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="adOZ_JN4gbAruZZhF4wo-146">
+          <mxGeometry x="12" y="45" width="204" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
